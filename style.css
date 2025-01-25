@@ -20,3 +20,11 @@ body {
   align-items: center;
   padding: 2rem;
 }
+
+.container {
+    background: #e5e4e2;
+    width: clamp(10rem, 90%, 60rem);
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.25);
+  }
